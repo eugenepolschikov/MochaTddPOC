@@ -17,7 +17,7 @@
     "yargs": "^9.0.1"
   },
   "devDependencies": {
-    "eslint": "^3.13.1",
+    "eslint": "^4.18.2",
     "gulp": "^3.9.1",
     "gulp-protractor": "^4.1.0",
     "mochawesome": "^3.0.2",
