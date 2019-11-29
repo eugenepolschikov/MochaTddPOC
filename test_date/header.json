@@ -1,0 +1,34 @@
+[
+    {
+        "Element": "HeaderLogo"
+    },
+    {
+        "Element": "SolutionButton",
+        "Dropdown": "SolutionssDropdownItems",
+        "DropdownItems": 9
+    },
+    {
+        "Element": "OurWorkButton",
+        "Dropdown": "OurWorkDropdownItems",
+        "DropdownItems": 6
+    },
+    {
+        "Element": "AboutButton",
+        "Dropdown": "AboutDropdownItems",
+        "DropdownItems": 4
+    },
+    {
+        "Element": "NewsButton",
+        "Dropdown": "NewsDropdownItems",
+        "DropdownItems": 3
+    },
+    {
+        "Element": "ContactButton"
+    },
+    {
+        "Element": "CallUsNumber"
+    },
+    {
+        "Element": "LanguageBlock"
+    }
+]
